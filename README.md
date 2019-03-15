@@ -1,0 +1,2 @@
+# excelhelper
+Apache POI库的封装，主要用于Excel文件的导入导出，方便快捷的将Excel数据读取映射到Java POJO对象上或反之
